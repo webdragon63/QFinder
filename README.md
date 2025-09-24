@@ -43,5 +43,12 @@ QFinder is a simple Python GUI tool for crawling websites and extracting URLs wi
 - **Speed**: Adjust crawl speed via the dropdown for slower sites or stealth.
 
 ---
-**Author:** [WebDragon63](https://github.com/webdragon63)\
+
+## If you want to donate for our project, then you can :) 💰
+##### Bitcoin(BTC) address: `bc1qrgakys3xn64g74422m3v6avhd7as3hgejsqs7d`
+##### Ethereum(ETH) address: `0x8CC47B3d6B820D7c72b2778d3D684b430ec6BF38`
+##### Polygon(POL) address: `0x8CC47B3d6B820D7c72b2778d3D684b430ec6BF38`
+##### BNB smart chain(BNB): `0x8CC47B3d6B820D7c72b2778d3D684b430ec6BF38`
+## Created by
+**INDIAN CYBER ARMY** >>[WebDragon63](https://github.com/webdragon63)\
 **YouTube Channel** [INDIAN CYBER ARMY](https://youtube.com/@webdragon63)
