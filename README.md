@@ -24,9 +24,9 @@ QFinder is a simple Python GUI tool for crawling websites and extracting URLs wi
 4. **Double-click a found query** to copy it to your clipboard.
 
 ## Screenshot
-<img width="710" height="132" alt="Screenshot at 2025-09-24 17-42-51" src="https://github.com/user-attachments/assets/b68a119b-f4c2-4b66-9be9-7019a502a169" />
+<img width="710" height="432" alt="Screenshot at 2025-09-24 17-42-51" src="https://github.com/user-attachments/assets/b68a119b-f4c2-4b66-9be9-7019a502a169" />
 
-<img width="710" height="132" alt="Screenshot at 2025-09-24 17-43-27" src="https://github.com/user-attachments/assets/e19cf1fa-aab4-4cac-9c81-24e32cc5e683" />
+<img width="710" height="432" alt="Screenshot at 2025-09-24 17-43-27" src="https://github.com/user-attachments/assets/e19cf1fa-aab4-4cac-9c81-24e32cc5e683" />
 
 ## Notes
 
