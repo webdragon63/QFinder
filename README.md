@@ -14,7 +14,7 @@ QFinder is a simple Python GUI tool for crawling websites and extracting URLs wi
 ## Usage
 
 
-2. **Run QFinder**:
+1. **Run QFinder**:
 
    ```bash
    source qfinder.sh
@@ -25,13 +25,13 @@ QFinder is a simple Python GUI tool for crawling websites and extracting URLs wi
 
 ---
 
-3. **Enter a website URL** (e.g., `https://example.com`) and click **Start**.
+2. **Enter a website URL** (e.g., `https://example.com`) and click **Start**.
 ## Screenshot
 <img width="710" height="432" alt="Screenshot at 2025-09-24 17-43-27" src="https://github.com/user-attachments/assets/e19cf1fa-aab4-4cac-9c81-24e32cc5e683" />
 
 ---
 
-4. **Double-click a found query** to copy it to your clipboard.
+3. **Double-click a found query** to copy it to your clipboard.
 
 ## Screenshot
 <img width="710" height="432" alt="Screenshot at 2025-09-24 17-51-54" src="https://github.com/user-attachments/assets/b59bbd5a-9fee-4c2b-9d53-890945f69e5d" />
