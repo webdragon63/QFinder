@@ -22,9 +22,8 @@ run_with_spinner() {
 }
 
 
-run_with_spinner python3 -m venv scanner
-source scanner/bin/activate
+run_with_spinner python3 -m venv dependencies
+source dependencies/bin/activate
 run_with_spinner pip install --upgrade pip
-run_with_spinner pip install python-nmap PyQt5 cryptography requests
+run_with_spinner pip install PyQt5 requests beautifulsoup4
 python3 src/main.py
-
