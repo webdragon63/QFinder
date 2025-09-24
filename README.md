@@ -52,3 +52,5 @@ QFinder is a simple Python GUI tool for crawling websites and extracting URLs wi
 ## Created by
 **INDIAN CYBER ARMY** >>[WebDragon63](https://github.com/webdragon63)\
 **YouTube Channel** [INDIAN CYBER ARMY](https://youtube.com/@webdragon63)
+
+---
